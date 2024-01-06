@@ -174,7 +174,7 @@
                                         i = new Headers({
                                             "Content-Type": "application/json"
                                         }),
-                                        s = yield fetch(`https://formspree.io/f/mvoeowzv`, {
+                                        s = yield fetch(`https://formspree.io/f/mvoeolzw`, {
                                             method: "POST",
                                             mode: "cors",
                                             cache: "no-cache",
